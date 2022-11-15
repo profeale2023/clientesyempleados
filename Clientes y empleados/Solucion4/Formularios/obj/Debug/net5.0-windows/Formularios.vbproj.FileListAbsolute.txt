@@ -1,0 +1,52 @@
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.AssemblyReference.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.frmRegistroNuevo.resources
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.GenerateResource.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.vb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Clases.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\bin\Debug\net5.0-windows\Clases.pdb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.CopyComplete
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.AssemblyReference.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmRegistroCliente.resources
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.frmRegistroNuevo.resources
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.GenerateResource.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.vb
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbprojAssemblyReference.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.FrmRegistroCliente.resources
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.frmRegistroNuevo.resources
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.GenerateResource.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.AssemblyInfo.vb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.exe
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.deps.json
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.json
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.runtimeconfig.dev.json
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Clases.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\bin\Debug\net5.0-windows\Clases.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.vbproj.CopyComplete
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\ref\Formularios.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.genruntimeconfig.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Formularios\obj\Debug\net5.0-windows\Formularios.Menu.resources

@@ -1,0 +1,35 @@
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfoInputs.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfo.vb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.vbproj.CoreCompileInputs.cache
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.deps.json
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\bin\Debug\net5.0-windows\ref\Clases.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.pdb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\ref\Clases.dll
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.pdb
+C:\Users\Alumno423\source\repos\poo4\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.vbproj.AssemblyReference.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.deps.json
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.dll
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\bin\Debug\net5.0-windows\ref\Clases.dll
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.pdb
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.GeneratedMSBuildEditorConfig.editorconfig
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfoInputs.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfo.vb
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.vbproj.CoreCompileInputs.cache
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.dll
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\ref\Clases.dll
+D:\recuperado\ARCHIVOS ALEJANDRA\2022\00. Laboratorio\poo1\Solucion4-20220822T230924Z-001\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.deps.json
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\bin\Debug\net5.0-windows\ref\Clases.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\bin\Debug\net5.0-windows\Clases.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfoInputs.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.AssemblyInfo.vb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.vbproj.CoreCompileInputs.cache
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\ref\Clases.dll
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.pdb
+C:\Users\Jorge\Desktop\Clientes y empleados con error\Clientes y empleados con error\Solucion4\Clases\obj\Debug\net5.0-windows\Clases.vbprojAssemblyReference.cache
